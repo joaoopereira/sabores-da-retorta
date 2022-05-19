@@ -1,0 +1,16 @@
+baseURL = '/'
+languageCode = 'pt-pt'
+title = 'Sabores da Retorta'
+theme = 'resto-hugo'
+
+# Theme specific configuration
+[params]
+logo = "img/logo.png"
+enableDisqus = true # enable / disable comments for blog posts
+enableGA = true # enable / disable google analytics
+heroText = "We Love <br> Delicious Foods !"
+footerText = "Próximas festividades: Semana das Associações Campo, Couce em festa"
+facebook = "https://facebook.com"
+twitter = "https://twitter.com"
+instagram = "https://instagram.com"
+

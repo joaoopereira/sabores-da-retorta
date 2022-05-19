@@ -1,0 +1,3 @@
+[submodule "src/themes/resto-hugo"]
+	path = src/themes/resto-hugo
+	url = https://gitlab.com/kskarthik/resto-hugo.git
