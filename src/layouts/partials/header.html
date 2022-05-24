@@ -1,0 +1,28 @@
+   <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{if .IsHome }} {{ .Site.Title }} {{else}} {{ .Title }} {{end}}</title>
+    <meta name="description" content="{{ .Site.Title }}">
+    <meta name="keywords" content="{{ .Site.Params.keywords }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- External CSS -->
+    <link rel="stylesheet" href="vendor/bootstrap/bootstrap.min.css" >
+    <link rel="stylesheet" href="vendor/select2/select2.min.css" >
+    <!--Don't load owl carousel in non home pages-->
+    {{if .IsHome}} 
+    <link rel="stylesheet" href="vendor/owlcarousel/owl.carousel.min.css">
+    {{end}}
+    <link rel="stylesheet" href="css/featherlight.min.css" >
+    <link rel="stylesheet" href="css/tempusdominus-bootstrap-4.min.css" >
+    <link rel="stylesheet" href="css/brands.css" >
+
+    <!-- Fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700|Josefin+Sans:300,400,700">
+    <link rel="stylesheet" href="css/all.css"  integrity="" crossorigin="anonymous">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/style.min.css" >
+
+    <!-- Modernizr JS for IE8 support of HTML5 elements and media queries -->
+    <script src="js/modernizr.js" ></script>
+</head>
