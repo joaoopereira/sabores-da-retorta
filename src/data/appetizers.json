@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Pratinho Chouriça Assada",
+    "description": "Prato com uma chouriça assada cortada",
+    "price": "3,00 €",
+    "img": "img/steak.jpg"
+  },
+  {
+    "title": "Pratinho Pão com Chouriço",
+    "description": "Prato com pão com chouriço fatiado",
+    "price": "2,50 €",
+    "img": "img/breakfast-1.jpg"
+  },
+  {
+    "title": "Pratinho Queijo",
+    "description": "Prato com queijo cortado aos cubos",
+    "price": "3,50 €",
+    "img": "img/steak.jpg"
+  },
+  {
+    "title": "Pratinho Presunto",
+    "description": "Prato com presunto fatiado",
+    "price": "3,50 €",
+    "img": "img/steak.jpg"
+  },
+  {
+    "title": "Pratinho Salpicão",
+    "description": "Prato com salpicão ás rodelas",
+    "price": "3,50 €",
+    "img": "img/steak.jpg"
+  },
+  {
+    "title": "Pratinho Azeitonas",
+    "description": "",
+    "price": "1,00 €",
+    "img": "img/breakfast-1.jpg"
+  },
+  {
+    "title": "Pratinho Pão",
+    "description": "",
+    "price": "1,00 €",
+    "img": "img/steak.jpg"
+  },
+  {
+    "title": "Pratinho Batatas Fritas",
+    "description": "",
+    "price": "1,50 €",
+    "img": "img/steak.jpg"
+  },
+  {
+    "title": "Tábua Pequena",
+    "description": "inclui: 1 chouriça, 1 queijo",
+    "price": "7,50 €",
+    "img": "img/steak.jpg"
+  },
+  {
+    "title": "Tábua Grande",
+    "description": "inclui: 1 chouriça, 1 queijo",
+    "price": "13,00 €",
+    "img": "img/steak.jpg"
+  }
+]

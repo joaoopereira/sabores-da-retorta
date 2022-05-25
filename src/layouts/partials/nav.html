@@ -6,13 +6,42 @@
                 href='{{.Site.BaseURL}}'>
                 <img src="{{.Site.Params.logo | absURL }}" alt="logo">
             </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="fa fa-bars"></span>
+            </button>
+
             <div class="collapse navbar-collapse justify-content-between" id="navbarSupportedContent">
                 <ul class="navbar-nav d-flex justify-content-between">
+                    <div class="d-flex flex-lg-row flex-column">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#appetizers">Entradas</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#sandwiches">Sandes</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#soups">Sopa</a>
+                        </li>
+                    </div>
                 </ul>
+
                 <a class="navbar-brand navbar-brand-center d-flex align-items-center only-desktop" href="#">
                     <img src="{{.Site.Params.logo | absURL }}" alt="">
                 </a>
+
                 <ul class="navbar-nav d-flex justify-content-between">
+                    <div class="d-flex flex-lg-row flex-column">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#snack">Petiscos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#drink">Bebidas</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#dessert">Sobremesas</a>
+                        </li>
+                    </div>
                 </ul>
             </div>
         </div>

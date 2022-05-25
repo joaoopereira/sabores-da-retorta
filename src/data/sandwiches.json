@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Rojões",
+    "description": "",
+    "price": "2,50 €",
+    "img": "img/breakfast-1.jpg"
+  },
+  {
+    "title": "Queijo",
+    "description": "",
+    "price": "2,50 €",
+    "img": "img/breakfast-1.jpg"
+  },
+  {
+    "title": "Presunto",
+    "description": "",
+    "price": "2,50 €",
+    "img": "img/breakfast-1.jpg"
+  },
+  {
+    "title": "Salpicão",
+    "description": "",
+    "price": "2,50 €",
+    "img": "img/breakfast-1.jpg"
+  },
+  {
+    "title": "Fêvera",
+    "description": "",
+    "price": "2,50 €",
+    "img": "img/breakfast-1.jpg"
+  },
+  {
+    "title": "Fêvera com ovo",
+    "description": "",
+    "price": "3,00 €",
+    "img": "img/breakfast-1.jpg"
+  },
+  {
+    "title": "Bifana",
+    "description": "",
+    "price": "2,50 €",
+    "img": "img/breakfast-1.jpg"
+  },
+  {
+    "title": "Hamburger",
+    "description": "com Batata Frita. Pode ser servido em prato",
+    "price": "3,00 €",
+    "img": "img/breakfast-1.jpg"
+  },
+  {
+    "title": "Hamburger com ovo",
+    "description": "com Batata Frita. Pode ser servido em prato",
+    "price": "3,50 €",
+    "img": "img/breakfast-1.jpg"
+  },
+  {
+    "title": "Cachorro",
+    "description": "Queijo, Fiambre, Salsicha, Batata Frita Palha",
+    "price": "3,50 €",
+    "img": "img/breakfast-1.jpg"
+  }
+]
