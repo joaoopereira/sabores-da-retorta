@@ -1,8 +1,27 @@
 <footer class="mastfoot pb-5 bg-white section-padding pb-0">
 	<div class="inner container">
 		<div class="row">
-			<div class="col-lg-12 d-flex align-items-center">
-				<div class="footer-widget px-lg-5 px-0 mx-auto text-center mb-0">
+			<div class="col-lg-4">
+				<div class="footer-widget pr-lg-5 pr-0">
+					<img src="{{ .Site.Params.logo | absURL }}" class="img-fluid footer-logo mb-3" alt="">
+					<p>{{ .Site.Params.footerText | safeHTML}}</p>
+					<nav class="nav nav-mastfoot justify-content-start">
+						<a class="nav-link" href="{{.Site.Params.facebook}}">
+							<i class="fab fa-facebook-f"></i>
+						</a>
+						<a class="nav-link" href="{{.Site.Params.website}}">
+							<i class="fa fa-globe"></i>
+						</a>
+						<a class="nav-link" href="mailto:{{.Site.Params.email}}">
+							<i class="fa fa-envelope"></i>
+						</a>
+					</nav>
+				</div>
+
+			</div>
+			<div class="col-lg-4">
+				<div class="footer-widget px-lg-5 px-0">
+
 					<h4>Horário</h4>
 					<ul class="list-unstyled open-hours">
 						<li class="d-flex justify-content-between"><span>quarta</span><span>18:00 - 23:00</span></li>
@@ -13,11 +32,28 @@
 					</ul>
 				</div>
 			</div>
+
+			<div class="col-lg-4">
+				<div class="footer-widget pl-lg-5 pl-0">
+					<h4>Newsletter</h4>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+					<form id="newsletter">
+						<div class="form-group">
+							<input type="email" class="form-control" id="emailNewsletter"
+								aria-describedby="emailNewsletter" placeholder="Email">
+						</div>
+						<button type="submit" class="btn btn-primary w-100">Subscrever</button>
+					</form>
+				</div>
+			</div>
+			<div class="col-md-12 d-flex align-items-center">
+				<p class="mx-auto text-center mb-0">{{.Site.Copyright | safeHTML }}Design by <a
+						href="https://freehtml5.co/" target="_blank">FreeHTML5.co</a> | Powered by <a
+						href="https://gohugo.io">Hugo</a></p>
+			</div>
 		</div>
 	</div>
 </footer>
-</div>
-</div>
 <!-- External JS -->
 <script src="js/jquery.min.js"></script>
 <script src="js/moment.min.js"></script>
@@ -31,6 +67,9 @@
 {{if .IsHome }}
 <!--Main JS -->
 <script src="js/app.min.js"></script>
+
+<!-- Own JS-->
+<script src="js/script.js" ></script>
 {{end}}
 <!--Google Analytics-->
 {{ if .Site.Params.enableGA }}

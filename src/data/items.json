@@ -1,0 +1,224 @@
+{
+  "appetizers": [
+    {
+      "title": "Pratinho Chouriça Assada",
+      "description": "Prato com uma chouriça assada cortada",
+      "price": "3,00 €",
+      "img": "img/steak.jpg"
+    },
+    {
+      "title": "Pratinho Pão com Chouriço",
+      "description": "Prato com pão com chouriço fatiado",
+      "price": "2,50 €",
+      "img": "img/breakfast-1.jpg"
+    },
+    {
+      "title": "Pratinho Queijo",
+      "description": "Prato com queijo cortado aos cubos",
+      "price": "3,50 €",
+      "img": "img/steak.jpg"
+    },
+    {
+      "title": "Pratinho Presunto",
+      "description": "Prato com presunto fatiado",
+      "price": "3,50 €",
+      "img": "img/steak.jpg"
+    },
+    {
+      "title": "Pratinho Salpicão",
+      "description": "Prato com salpicão ás rodelas",
+      "price": "3,50 €",
+      "img": "img/steak.jpg"
+    },
+    {
+      "title": "Pratinho Azeitonas",
+      "description": "",
+      "price": "1,00 €",
+      "img": "img/breakfast-1.jpg"
+    },
+    {
+      "title": "Pratinho Pão",
+      "description": "",
+      "price": "1,00 €",
+      "img": "img/steak.jpg"
+    },
+    {
+      "title": "Pratinho Batatas Fritas",
+      "description": "",
+      "price": "1,50 €",
+      "img": "img/steak.jpg"
+    },
+    {
+      "title": "Tábua Pequena",
+      "description": "inclui: 1 chouriça, 1 queijo",
+      "price": "7,50 €",
+      "img": "img/steak.jpg"
+    },
+    {
+      "title": "Tábua Grande",
+      "description": "inclui: 1 chouriça, 1 queijo",
+      "price": "13,00 €",
+      "img": "img/steak.jpg"
+    }
+  ],
+  "sandwiches": [
+    {
+      "title": "Rojões",
+      "description": "",
+      "price": "2,50 €",
+      "img": "img/breakfast-1.jpg"
+    },
+    {
+      "title": "Queijo",
+      "description": "",
+      "price": "2,50 €",
+      "img": "img/breakfast-1.jpg"
+    },
+    {
+      "title": "Presunto",
+      "description": "",
+      "price": "2,50 €",
+      "img": "img/breakfast-1.jpg"
+    },
+    {
+      "title": "Salpicão",
+      "description": "",
+      "price": "2,50 €",
+      "img": "img/breakfast-1.jpg"
+    },
+    {
+      "title": "Fêvera",
+      "description": "",
+      "price": "2,50 €",
+      "img": "img/breakfast-1.jpg"
+    },
+    {
+      "title": "Fêvera com ovo",
+      "description": "",
+      "price": "3,00 €",
+      "img": "img/breakfast-1.jpg"
+    },
+    {
+      "title": "Bifana",
+      "description": "",
+      "price": "2,50 €",
+      "img": "img/breakfast-1.jpg"
+    },
+    {
+      "title": "Hamburger",
+      "description": "com Batata Frita. Pode ser servido em prato",
+      "price": "3,00 €",
+      "img": "img/breakfast-1.jpg"
+    },
+    {
+      "title": "Hamburger com ovo",
+      "description": "com Batata Frita. Pode ser servido em prato",
+      "price": "3,50 €",
+      "img": "img/breakfast-1.jpg"
+    },
+    {
+      "title": "Cachorro",
+      "description": "Queijo, Fiambre, Salsicha, Batata Frita Palha",
+      "price": "3,50 €",
+      "img": "img/breakfast-1.jpg"
+    }
+  ],
+  "soups": [
+    {
+      "title": "Caldo de Nabos",
+      "description": "",
+      "price": "1,50 €",
+      "img": "img/breakfast-1.jpg"
+    },
+    {
+      "title": "Sopa da Pedra",
+      "description": "",
+      "price": "2,00 €",
+      "img": "img/breakfast-1.jpg"
+    }
+  ],
+  "snacks": [
+    {
+      "title": "Dose Rojões",
+      "description": "Prato",
+      "price": "7,50 €",
+      "img": "img/breakfast-1.jpg"
+    },
+    {
+      "title": "Dose Grelhado Misto",
+      "description": "",
+      "price": "7,50 €",
+      "img": "img/breakfast-1.jpg"
+    },
+    {
+      "title": "Dose Punheta de Bacalhau",
+      "description": "",
+      "price": "7,50 €",
+      "img": "img/breakfast-1.jpg"
+    }
+  ],
+  "drinks": [
+    {
+      "title": "Copo",
+      "description": "Prato",
+      "price": "7,50 €",
+      "img": "img/breakfast-1.jpg"
+    },
+    {
+      "title": "Dose Grelhado Misto",
+      "description": "",
+      "price": "7,50 €",
+      "img": "img/breakfast-1.jpg"
+    },
+    {
+      "title": "Dose Punheta de Bacalhau",
+      "description": "",
+      "price": "7,50 €",
+      "img": "img/breakfast-1.jpg"
+    }
+  ],
+  "desserts": [
+    {
+      "title": "Bola de Berlim",
+      "description": "",
+      "price": "1,00 €",
+      "img": "img/breakfast-1.jpg"
+    },
+    {
+      "title": "Pão de Ló São João Sobrado (Húmido)",
+      "description": "",
+      "price": "2,50 €",
+      "img": "img/breakfast-1.jpg"
+    },
+    {
+      "title": "Sopa Seca",
+      "description": "",
+      "price": "1,50 €",
+      "img": "img/breakfast-1.jpg"
+    },
+    {
+      "title": "Leite Creme",
+      "description": "",
+      "price": "1,50 €",
+      "img": "img/breakfast-1.jpg"
+    },
+    {
+      "title": "Café/Descafeinado",
+      "description": "",
+      "price": "0,60 €",
+      "img": "img/breakfast-1.jpg"
+    },
+    {
+      "title": "Carioca",
+      "description": "",
+      "price": "0,50 €",
+      "img": "img/breakfast-1.jpg"
+    },
+    {
+      "title": "Aguardente/Licores",
+      "description": "",
+      "price": "0,60 €",
+      "img": "img/breakfast-1.jpg"
+    }
+  ]
+}

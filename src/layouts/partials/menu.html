@@ -11,30 +11,70 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-lg-12 menu-wrap" id="appetizers">
+            <div class="row" id="appetizers">
+                <div class="col-lg-12 menu-wrap">
                     <div class="heading-menu">
                         <h3 class="text-center mb-5">Entradas</h3>
                     </div>
-                    {{ range .Site.Data.appetizers }}
-                        {{ partial "item.html" . }}
+                    {{ range .Site.Data.items.appetizers }}
+                    {{ partial "item.html" . }}
                     {{ end }}
                 </div>
-                <div class="col-lg-12 menu-wrap section-padding" id="sandwiches">
+            </div>
+            <div class="row menu-padding" id="sandwiches">
+                <div class="col-lg-12 menu-wrap">
                     <div class="heading-menu">
                         <h3 class="text-center mb-5">Sandes</h3>
                     </div>
-                    {{ range .Site.Data.sandwiches }}
-                        {{ partial "item.html" . }}
+                    {{ range .Site.Data.items.sandwiches }}
+                    {{ partial "item.html" . }}
                     {{ end }}
                 </div>
-                <div class="col-lg-12 menu-wrap section-padding" id="soups">
+            </div>
+            <div class="row menu-padding" id="soups">
+                <div class="col-lg-12 menu-wrap">
                     <div class="heading-menu">
                         <h3 class="text-center mb-5">Sopas</h3>
                     </div>
-                    {{ range .Site.Data.soups }}
-                        {{ partial "item.html" . }}
+                    {{ range .Site.Data.items.soups }}
+                    {{ partial "item.html" . }}
                     {{ end }}
+                </div>
+            </div>
+            <div class="row menu-padding" id="snacks">
+                <div class="col-lg-12 menu-wrap">
+                    <div class="heading-menu">
+                        <h3 class="text-center mb-5">Petiscos</h3>
+                    </div>
+                    {{ range .Site.Data.items.snacks }}
+                    {{ partial "item.html" . }}
+                    {{ end }}
+                </div>
+            </div>
+            <div class="row menu-padding"id="drinks">
+                <div class="col-lg-12 menu-wrap"></div>
+                    <div class="heading-menu">
+                        <h3 class="text-center mb-5">Bebidas</h3>
+                    </div>
+                    {{ range .Site.Data.items.drinks }}
+                    {{ partial "item.html" . }}
+                    {{ end }}
+                </div>
+            </div>
+            <div class="row menu-padding" id="desserts">
+                <div class="col-lg-12 menu-wrap">
+                    <div class="heading-menu">
+                        <h3 class="text-center mb-5">Sobremesas</h3>
+                    </div>
+                    {{ range .Site.Data.items.desserts }}
+                    {{ partial "item.html" . }}
+                    {{ end }}
+                </div>
+            </div>
+            <div class="row menu-padding">
+                <div class="col-md-12 d-flex align-items-center">
+                    <h4 class="mx-auto text-center mb-0">A falta de louça no acto de recolha implica o seu pagamento
+                    </h4>
                 </div>
             </div>
         </div>
