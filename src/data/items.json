@@ -1,32 +1,8 @@
 {
   "appetizers":[
    {
-    "title": "PRATINHO CHOURIÇA ASSADA",
-    "description": "Chouriço assada às rodelas",
-    "price": 3.5,
-    "img": null
-   },
-   {
-    "title": "PRATINHO PÃO COM CHOURIÇO",
-    "description": "Pão com chouriço tradicional",
-    "price": 3,
-    "img": null
-   },
-   {
-    "title": "PRATINHO QUEIJO/PRESUNTO/SALPICÃO",
-    "description": "Queijo, pesunto, salpicão",
-    "price": 4,
-    "img": null
-   },
-   {
     "title": "PRATINHO AZEITONAS",
     "description": "Azeitonas",
-    "price": 1,
-    "img": null
-   },
-   {
-    "title": "PRATINHO PÃO",
-    "description": "Sêmea, broa de milho, regueifa",
     "price": 1,
     "img": null
    },
@@ -37,31 +13,55 @@
     "img": null
    },
    {
-    "title": "TÁBUA PEQUENA",
-    "description": "Queijo, pesunto, salpicão, batata frita, chouriço assado, pão, azeitonas",
-    "price": 9,
+    "title": "PRATINHO CHOURIÇA ASSADA",
+    "description": "Chouriço assada às rodelas",
+    "price": 3.5,
+    "img": null
+   },
+   {
+    "title": "PRATINHO PÃO",
+    "description": "Sêmea, broa de milho, regueifa",
+    "price": 1,
+    "img": null
+   },
+   {
+    "title": "PRATINHO PÃO COM CHOURIÇO",
+    "description": "Pão com chouriço tradicional",
+    "price": 3,
+    "img": null
+   },
+   {
+    "title": "PRATINHO PRESUNTO",
+    "description": "Presunto",
+    "price": 4,
+    "img": null
+   },
+   {
+    "title": "PRATINHO QUEIJO",
+    "description": "Queijo",
+    "price": 4,
+    "img": null
+   },
+   {
+    "title": "PRATINHO SALPICÃO",
+    "description": "Salpicão",
+    "price": 4,
     "img": null
    },
    {
     "title": "TÁBUA GRANDE",
-    "description": "Queijo, pesunto, salpicão, batata frita, chouriço assado, pão, azeitonas",
+    "description": "Queijo, presunto, salpicão, batata frita, chouriço assado, pão, azeitonas",
     "price": 15,
-    "img": null
+    "img": "img/food/tabua.jpg"
+   },
+   {
+    "title": "TÁBUA PEQUENA",
+    "description": "Queijo, presunto, salpicão, batata frita, chouriço assado, pão, azeitonas",
+    "price": 9,
+    "img": "img/food/tabua.jpg"
    }
   ],
   "sandwiches":[
-   {
-    "title": "ROJÕES",
-    "description": "Rojões de porco, pão",
-    "price": 3,
-    "img": null
-   },
-   {
-    "title": "QUEIJO ou PRESUNTO ou SALPICÃO",
-    "description": "Queijo, presunto, salpicão, pão",
-    "price": 3,
-    "img": null
-   },
    {
     "title": "BIFANA",
     "description": "Bifana de porco, pão",
@@ -69,38 +69,62 @@
     "img": null
    },
    {
+    "title": "CACHORRO",
+    "description": "Salcicha, fiambre, queijo, batata palha, molhos, pão",
+    "price": 3,
+    "img": null
+   },
+   {
     "title": "FÊVERA",
     "description": "Fêvera de porco, pão",
     "price": 3,
-    "img": null
+    "img": "img/food/fevera.jpg"
    },
    {
     "title": "FÊVERA C/OVO",
     "description": "Fevera de porco, ovo estrelado, queijo, pão",
     "price": 3.5,
-    "img": null
+    "img": "img/food/fevera.jpg"
    },
    {
     "title": "HAMBURGUER",
     "description": "Hamburguer de Bovino ou frango, queijo, alface, pão, batata frita, molhos",
     "price": 3.5,
-    "img": null
-   },
-   {
-    "title": "HAMBURGUER VEGETARIANO",
-    "description": "Hamburguer  vegetariano, queijo, alface, pão, batata frita, molhos",
-    "price": 3.5,
-    "img": null
+    "img": "img/food/hamburger.jpg"
    },
    {
     "title": "HAMBURGUER C/OVO",
     "description": "Hamburguer de Bovino ou frango, ovo, queijo, alface, pão, batata frita, molhos",
     "price": 4,
+    "img": "img/food/hamburger.jpg"
+   },
+   {
+    "title": "HAMBURGUER VEGETARIANO",
+    "description": "Hamburguer  vegetariano, queijo, alface, pão, batata frita, molhos",
+    "price": 3.5,
+    "img": "img/food/hamburger.jpg"
+   },
+   {
+    "title": "PRESUNTO",
+    "description": "Presunto, pão",
+    "price": 3,
     "img": null
    },
    {
-    "title": "CACHORRO",
-    "description": "Salcicha, fiambre, queijo, batata palha, molhos, pão",
+    "title": "QUEIJO",
+    "description": "Queijo, pão",
+    "price": 3,
+    "img": null
+   },
+   {
+    "title": "ROJÕES",
+    "description": "Rojões de porco, pão",
+    "price": 3,
+    "img": null
+   },
+   {
+    "title": "SALPICÃO",
+    "description": "Salpicão, pão",
     "price": 3,
     "img": null
    }
@@ -116,31 +140,25 @@
     "title": "SOPA DA PEDRA",
     "description": "Vários legumes e variedade de carnes aos cubos.",
     "price": 2.5,
-    "img": null
+    "img": "img/food/sopa-pedra.jpg"
    }
   ],
   "snacks":[
    {
-    "title": "ROJÕES - Prato grande",
-    "description": "Rojões de porco",
-    "price": 9,
-    "img": null
-   },
-   {
-    "title": "ROJÕES - Prato pequeno",
-    "description": "Rojões de porco",
+    "title": "GRELHADO MISTO -  Prato pequeno",
+    "description": "Fêvera, entremeada, chouriço de carne e chouriço de sangue, azeitonas e picles",
     "price": 4,
-    "img": null
+    "img": "img/food/grelhado.jpg"
    },
    {
     "title": "GRELHADO MISTO -  Prato grande",
     "description": "Fêvera, entremeada, chouriço de carne e chouriço de sangue, azeitonas e picles",
     "price": 10,
-    "img": null
+    "img": "img/food/grelhado.jpg"
    },
    {
-    "title": "GRELHADO MISTO -  Prato pequeno",
-    "description": "Fêvera, entremeada, chouriço de carne e chouriço de sangue, azeitonas e picles",
+    "title": "PUNHETA DE BACALHAU -  Prato pequeno",
+    "description": "Bacalhau, azeitonas, cebolas, azeite",
     "price": 4,
     "img": null
    },
@@ -151,34 +169,28 @@
     "img": null
    },
    {
-    "title": "PUNHETA DE BACALHAU -  Prato pequeno",
-    "description": "Bacalhau, azeitonas, cebolas, azeite",
+    "title": "ROJÕES - Prato pequeno",
+    "description": "Rojões de porco",
     "price": 4,
-    "img": null
+    "img": "img/food/prato-rojoes.jpg"
+   },
+   {
+    "title": "ROJÕES - Prato grande",
+    "description": "Rojões de porco",
+    "price": 9,
+    "img": "img/food/prato-rojoes.jpg"
    }
   ],
   "drinks":[
    {
     "title": "CERVEJA - copo",
-    "description": "cerveja",
+    "description": null,
     "price": 1.5,
     "img": null
    },
    {
-    "title": "VINHO BRANCO/TINTO/ROSÉ/MADUROS - copo",
-    "description": "Vinho verde da região e maduros do alentejo",
-    "price": 1.5,
-    "img": null
-   },
-   {
-    "title": "RECEITA/SANGRIA - copo",
-    "description": "Sangria (vinho tinto, vinho do porto, whisky, aguardente, sumos e fruto) RECEITA (Cerveja, vinho verde, açucar amarelo)",
-    "price": 2,
-    "img": null
-   },
-   {
-    "title": "SUMO/REFRIGERANTES - copo",
-    "description": "Coca-cola, icetea, seven-up, sumol",
+    "title": "7UP",
+    "description": null,
     "price": 1.25,
     "img": null
    },
@@ -189,47 +201,149 @@
     "img": null
    },
    {
-    "title": "VINHO BRANCO/TINTO/ROSÉ/MADUROS - infusa 0,5L",
-    "description": "Vinho verde da região e maduros do alentejo",
-    "price": 3,
+    "title": "COCA-COLA",
+    "description": null,
+    "price": 1.25,
     "img": null
    },
    {
-    "title": "VINHO BRANCO/TINTO/ROSÉ/MADUROS - infusa 1L",
-    "description": "Vinho verde da região e maduros do alentejo",
-    "price": 6,
+    "title": "ICE-TEA",
+    "description": null,
+    "price": 1.25,
     "img": null
    },
    {
-    "title": "VINHO BRANCO/TINTO/ROSÉ/MADUROS - infusa 2L",
-    "description": "Vinho verde da região e maduros do alentejo",
-    "price": 12,
+    "title": "SUMOL ANANÁS",
+    "description": null,
+    "price": 1.25,
     "img": null
    },
    {
-    "title": "RECEITA/SANGRIA - infusa 0,5L",
-    "description": "Sangria (vinho tinto, vinho do porto, whisky, aguardente, sumos e fruto) RECEITA (Cerveja, vinho verde, açucar amarelo)",
+    "title": "SUMOL LARANJA",
+    "description": null,
+    "price": 1.25,
+    "img": null
+   },
+   {
+    "title": "RECEITA - Infusa 0,5L",
+    "description": "Cerveja, vinho verde, açucar amarelo",
     "price": 4,
     "img": null
    },
    {
-    "title": "RECEITA/SANGRIA - infusa 1L",
-    "description": "Sangria (vinho tinto, vinho do porto, whisky, aguardente, sumos e fruto) RECEITA (Cerveja, vinho verde, açucar amarelo)",
+    "title": "RECEITA - Infusa 1L",
+    "description": "Cerveja, vinho verde, açucar amarelo",
     "price": 8,
     "img": null
    },
    {
-    "title": "RECEITA/SANGRIA - infusa 2L",
-    "description": "Sangria (vinho tinto, vinho do porto, whisky, aguardente, sumos e fruto) RECEITA (Cerveja, vinho verde, açucar amarelo)",
+    "title": "RECEITA - Infusa 2L",
+    "description": "Cerveja, vinho verde, açucar amarelo",
     "price": 15,
+    "img": null
+   },
+   {
+    "title": "SANGRIA - Copo",
+    "description": "Vinho tinto, vinho do porto, whisky, aguardente, sumos e fruto",
+    "price": 2,
+    "img": null
+   },
+   {
+    "title": "SANGRIA - Infusa 0,5L",
+    "description": "Vinho tinto, vinho do porto, whisky, aguardente, sumos e fruto",
+    "price": 4,
+    "img": null
+   },
+   {
+    "title": "SANGRIA - Infusa 1L",
+    "description": "Vinho tinto, vinho do porto, whisky, aguardente, sumos e fruto",
+    "price": 8,
+    "img": null
+   },
+   {
+    "title": "SANGRIA - Infusa 2L",
+    "description": "Vinho tinto, vinho do porto, whisky, aguardente, sumos e fruto",
+    "price": 15,
+    "img": null
+   },
+   {
+    "title": "V MADURO BRANCO - Copo",
+    "description": "Maduro do Alentejo",
+    "price": 1.5,
+    "img": null
+   },
+   {
+    "title": "V MADURO BRANCO - Infusa 0,5L",
+    "description": "Maduro do Alentejo",
+    "price": 3,
+    "img": null
+   },
+   {
+    "title": "V MADURO BRANCO - Infusa 1L",
+    "description": "Maduro do Alentejo",
+    "price": 6,
+    "img": null
+   },
+   {
+    "title": "V MADURO BRANCO - Infusa 2L",
+    "description": "Maduro do Alentejo",
+    "price": 12,
+    "img": null
+   },
+   {
+    "title": "V MADURO TINTO - Copo",
+    "description": "Maduro do Alentejo",
+    "price": 1.5,
+    "img": null
+   },
+   {
+    "title": "V MADURO TINTO - Infusa 0,5L",
+    "description": "Maduro do Alentejo",
+    "price": 3,
+    "img": null
+   },
+   {
+    "title": "V MADURO TINTO - Infusa 1L",
+    "description": "Maduro do Alentejo",
+    "price": 6,
+    "img": null
+   },
+   {
+    "title": "V MADURO TINTO - Infusa 2L",
+    "description": "Maduro do Alentejo",
+    "price": 12,
+    "img": null
+   },
+   {
+    "title": "V VERDE BRANCO - Copo",
+    "description": "Vinho verde da região",
+    "price": 1.5,
+    "img": null
+   },
+   {
+    "title": "V VERDE BRANCO - Infusa 0,5L",
+    "description": "Vinho verde da região",
+    "price": 3,
+    "img": null
+   },
+   {
+    "title": "V VERDE BRANCO - Infusa 1L",
+    "description": "Vinho verde da região",
+    "price": 6,
+    "img": null
+   },
+   {
+    "title": "V VERDE BRANCO - Infusa 2L",
+    "description": "Vinho verde da região",
+    "price": 12,
     "img": null
    }
   ],
   "desserts":[
    {
-    "title": "SOPA SECA",
-    "description": "Pão velho, açucar, canela, limão",
-    "price": 2,
+    "title": "BABA DE CAMELO",
+    "description": "Leite Condensado, ovos",
+    "price": 2.5,
     "img": null
    },
    {
@@ -239,14 +353,8 @@
     "img": null
    },
    {
-    "title": "NATAS DO CÉU",
-    "description": "Natas, bolacha, creme de ovo",
-    "price": 2.5,
-    "img": null
-   },
-   {
-    "title": "BABA DE CAMELO",
-    "description": "Leite Condensado, ovos",
+    "title": "MOUSSE LIMÃO",
+    "description": "Natas, doce de limão, leite, açúcar",
     "price": 2.5,
     "img": null
    },
@@ -257,8 +365,8 @@
     "img": null
    },
    {
-    "title": "MOUSSE LIMÃO",
-    "description": "Natas, doce de limão, leite, açúcar",
+    "title": "NATAS DO CÉU",
+    "description": "Natas, bolacha, creme de ovo",
     "price": 2.5,
     "img": null
    },
@@ -266,6 +374,18 @@
     "title": "PÃO de LÓ (individual)",
     "description": "Farinha, ovos, açucar",
     "price": 3,
+    "img": null
+   },
+   {
+    "title": "SOPA SECA",
+    "description": "Pão velho, açucar, canela, limão",
+    "price": 2,
+    "img": null
+   },
+   {
+    "title": "AGUARDENTE/LICORES",
+    "description": "vários sabores",
+    "price": 0.75,
     "img": null
    },
    {
@@ -278,12 +398,6 @@
     "title": "CARIOCA",
     "description": "café marca Tropical",
     "price": 0.5,
-    "img": null
-   },
-   {
-    "title": "AGUARDENTE/LICORES",
-    "description": "vários sabores",
-    "price": 0.75,
     "img": null
    }
   ]
