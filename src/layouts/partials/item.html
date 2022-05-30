@@ -9,7 +9,7 @@
                 <h4>{{ .title }}</h4>
             </div>
             <div class="col-4">
-                <h4 class="text-muted menu-price">{{ .price }}</h4>
+                <h4 class="text-muted menu-price">{{ .price | lang.FormatNumber 2 }} €</h4>
             </div>
         </div>
         <p>{{ .description }}</p>
