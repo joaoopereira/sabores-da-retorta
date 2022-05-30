@@ -4,49 +4,49 @@
     "title": "PRATINHO CHOURIÇA ASSADA",
     "description": "Chouriço assada às rodelas",
     "price": 3.5,
-    "img": "img/steak.jpg"
+    "img": null
    },
    {
     "title": "PRATINHO PÃO COM CHOURIÇO",
     "description": "Pão com chouriço tradicional",
     "price": 3,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    },
    {
     "title": "PRATINHO QUEIJO/PRESUNTO/SALPICÃO",
     "description": "Queijo, pesunto, salpicão",
     "price": 4,
-    "img": "img/steak.jpg"
+    "img": null
    },
    {
     "title": "PRATINHO AZEITONAS",
     "description": "Azeitonas",
     "price": 1,
-    "img": "img/steak.jpg"
+    "img": null
    },
    {
     "title": "PRATINHO PÃO",
     "description": "Sêmea, broa de milho, regueifa",
     "price": 1,
-    "img": "img/steak.jpg"
+    "img": null
    },
    {
     "title": "PRATINHO BATATAS FRITAS",
     "description": "Batatas Fritas",
     "price": 1.5,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    },
    {
     "title": "TÁBUA PEQUENA",
     "description": "Queijo, pesunto, salpicão, batata frita, chouriço assado, pão, azeitonas",
     "price": 9,
-    "img": "img/steak.jpg"
+    "img": null
    },
    {
     "title": "TÁBUA GRANDE",
     "description": "Queijo, pesunto, salpicão, batata frita, chouriço assado, pão, azeitonas",
     "price": 15,
-    "img": "img/steak.jpg"
+    "img": null
    }
   ],
   "sandwiches":[
@@ -54,55 +54,55 @@
     "title": "ROJÕES",
     "description": "Rojões de porco, pão",
     "price": 3,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    },
    {
     "title": "QUEIJO ou PRESUNTO ou SALPICÃO",
     "description": "Queijo, presunto, salpicão, pão",
     "price": 3,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    },
    {
     "title": "BIFANA",
     "description": "Bifana de porco, pão",
     "price": 3,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    },
    {
     "title": "FÊVERA",
     "description": "Fêvera de porco, pão",
     "price": 3,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    },
    {
     "title": "FÊVERA C/OVO",
     "description": "Fevera de porco, ovo estrelado, queijo, pão",
     "price": 3.5,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    },
    {
     "title": "HAMBURGUER",
     "description": "Hamburguer de Bovino ou frango, queijo, alface, pão, batata frita, molhos",
     "price": 3.5,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    },
    {
     "title": "HAMBURGUER VEGETARIANO",
     "description": "Hamburguer  vegetariano, queijo, alface, pão, batata frita, molhos",
     "price": 3.5,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    },
    {
     "title": "HAMBURGUER C/OVO",
     "description": "Hamburguer de Bovino ou frango, ovo, queijo, alface, pão, batata frita, molhos",
     "price": 4,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    },
    {
     "title": "CACHORRO",
     "description": "Salcicha, fiambre, queijo, batata palha, molhos, pão",
     "price": 3,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    }
   ],
   "soups":[
@@ -110,13 +110,13 @@
     "title": "CALDO DE NABOS",
     "description": "Nabos, feijão, batata, cebola, azeite, carne",
     "price": 2,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    },
    {
     "title": "SOPA DA PEDRA",
     "description": "Vários legumes e variedade de carnes aos cubos.",
     "price": 2.5,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    }
   ],
   "snacks":[
@@ -124,19 +124,19 @@
     "title": "ROJÕES - Prato grande",
     "description": "Rojões de porco",
     "price": 9,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    },
    {
     "title": "ROJÕES - Prato pequeno",
     "description": "Rojões de porco",
     "price": 4,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    },
    {
     "title": "GRELHADO MISTO -  Prato grande",
     "description": "Fêvera, entremeada, chouriço de carne e chouriço de sangue, azeitonas e picles",
     "price": 10,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    },
    {
     "title": "GRELHADO MISTO -  Prato pequeno",
@@ -162,19 +162,19 @@
     "title": "CERVEJA - copo",
     "description": "cerveja",
     "price": 1.5,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    },
    {
     "title": "VINHO BRANCO/TINTO/ROSÉ/MADUROS - copo",
     "description": "Vinho verde da região e maduros do alentejo",
     "price": 1.5,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    },
    {
     "title": "RECEITA/SANGRIA - copo",
     "description": "Sangria (vinho tinto, vinho do porto, whisky, aguardente, sumos e fruto) RECEITA (Cerveja, vinho verde, açucar amarelo)",
     "price": 2,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    },
    {
     "title": "SUMO/REFRIGERANTES - copo",
@@ -230,43 +230,43 @@
     "title": "SOPA SECA",
     "description": "Pão velho, açucar, canela, limão",
     "price": 2,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    },
    {
     "title": "BOLA DE BERLIM",
     "description": "Massa de bola de berlim, creme de berlim",
     "price": 1.5,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    },
    {
     "title": "NATAS DO CÉU",
     "description": "Natas, bolacha, creme de ovo",
     "price": 2.5,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    },
    {
     "title": "BABA DE CAMELO",
     "description": "Leite Condensado, ovos",
     "price": 2.5,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    },
    {
     "title": "MOUSSE OREO",
     "description": "Natas, Bolacha Chocolate",
     "price": 2.5,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    },
    {
     "title": "MOUSSE LIMÃO",
     "description": "Natas, doce de limão, leite, açúcar",
     "price": 2.5,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    },
    {
     "title": "PÃO de LÓ (individual)",
     "description": "Farinha, ovos, açucar",
     "price": 3,
-    "img": "img/breakfast-1.jpg"
+    "img": null
    },
    {
     "title": "CAFÉ/DESCAFEINADO",
