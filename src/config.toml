@@ -6,11 +6,11 @@ theme = 'resto-hugo'
 # Theme specific configuration
 [params]
 logo = "img/logo.png"
-enableDisqus = true # enable / disable comments for blog posts
+enableDisqus = false # enable / disable comments for blog posts
 enableGA = true # enable / disable google analytics
-heroText = "We Love <br> Delicious Foods !"
-footerText = "Próximas festividades: Semana das Associações Campo, Couce em festa"
+footerText = "Próximas festividades:<br><p>Semana das Associações Campo</p><p>Couce em festa</p>"
 facebook = "https://facebook.com/GDRRetorta"
 website = "https://retorta.com"
 email = "geral@retorta.com"
 
+disableKinds = ['taxonomy']
