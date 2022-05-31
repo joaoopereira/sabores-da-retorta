@@ -1,8 +1,17 @@
 .menu-padding {
-    padding-top: 10%;
+  padding-top: 10%;
 }
 
-.boxed-page, nav, .menu-price, ul, .mastfoot {
-    background-color: #e7e4da !important;
-    color: black !important;
+.boxed-page,
+nav,
+.menu-price,
+ul,
+.mastfoot,
+* {
+  background-color: #e7e4da !important;
+  color: black !important;
+}
+
+.navbar-brand img {
+  height: 60px;
 }
