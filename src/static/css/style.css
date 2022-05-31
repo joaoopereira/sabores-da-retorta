@@ -2,7 +2,7 @@
     padding-top: 10%;
 }
 
-.boxed-page, nav, .menu-price, ul {
+.boxed-page, nav, .menu-price, ul, .mastfoot {
     background-color: #e7e4da !important;
     color: black !important;
 }
