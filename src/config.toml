@@ -5,7 +5,8 @@ theme = 'resto-hugo'
 
 # Theme specific configuration
 [params]
-logo = "img/logo.png"
+logoNav = "img/logo-mercado.png"
+logoFooter = "img/logo-sabores.png"
 enableDisqus = false # enable / disable comments for blog posts
 enableGA = true # enable / disable google analytics
 footerText = "Próximas tasquinhas:<ul><li>Semana das Associações Campo</li><li>Couce em festa</li></ul>"
