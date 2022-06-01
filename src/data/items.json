@@ -4,61 +4,61 @@
     "title": "PRATINHO AZEITONAS",
     "description": "Azeitonas",
     "price": 1,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "PRATINHO BATATAS FRITAS",
     "description": "Batatas Fritas",
     "price": 1.5,
-    "img": "img/no-img.png"
+    "img": "img/food/batata-frita.jpegg"
    },
    {
     "title": "PRATINHO CHOURIÇA ASSADA",
     "description": "Chouriço assada às rodelas",
     "price": 3.5,
-    "img": "img/no-img.png"
+    "img": "img/food/chourica.jpeg"
    },
    {
     "title": "PRATINHO PÃO",
     "description": "Sêmea, broa de milho, regueifa",
     "price": 1,
-    "img": "img/no-img.png"
+    "img": "img/food/pao.jpeg"
    },
    {
     "title": "PRATINHO PÃO COM CHOURIÇO",
     "description": "Pão com chouriço tradicional",
     "price": 3,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "PRATINHO PRESUNTO",
     "description": "Presunto",
     "price": 4,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "PRATINHO QUEIJO",
     "description": "Queijo",
     "price": 4,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "PRATINHO SALPICÃO",
     "description": "Salpicão",
     "price": 4,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "TÁBUA GRANDE",
     "description": "Queijo, presunto, salpicão, batata frita, chouriço assado, pão, azeitonas",
     "price": 15,
-    "img": "img/food/tabua.jpg"
+    "img": "img/food/tabua-grande.jpeg"
    },
    {
     "title": "TÁBUA PEQUENA",
     "description": "Queijo, presunto, salpicão, batata frita, chouriço assado, pão, azeitonas",
     "price": 9,
-    "img": "img/food/tabua.jpg"
+    "img": "img/food/tabua-pequena.jpeg"
    }
   ],
   "sandwiches":[
@@ -66,67 +66,67 @@
     "title": "BIFANA",
     "description": "Bifana de porco, pão",
     "price": 3,
-    "img": "img/no-img.png"
+    "img": "img/food/bifana.jpeg"
    },
    {
     "title": "CACHORRO",
     "description": "Salcicha, fiambre, queijo, batata palha, molhos, pão",
     "price": 3,
-    "img": "img/no-img.png"
+    "img": "img/food/cachorro.jpeg"
    },
    {
     "title": "FÊVERA",
     "description": "Fêvera de porco, pão",
     "price": 3,
-    "img": "img/food/fevera.jpg"
+    "img": "img/food/fevera-com-ovo.jpeg"
    },
    {
     "title": "FÊVERA C/OVO",
     "description": "Fevera de porco, ovo estrelado, queijo, pão",
     "price": 3.5,
-    "img": "img/food/fevera.jpg"
+    "img": "img/food/fevera-com-ovo.jpeg"
    },
    {
     "title": "HAMBURGUER",
     "description": "Hamburguer de Bovino ou frango, queijo, alface, pão, batata frita, molhos",
     "price": 3.5,
-    "img": "img/food/hamburger.jpg"
+    "img": "img/food/hamburger-com-ovo.jpeg"
    },
    {
     "title": "HAMBURGUER C/OVO",
     "description": "Hamburguer de Bovino ou frango, ovo, queijo, alface, pão, batata frita, molhos",
     "price": 4,
-    "img": "img/food/hamburger.jpg"
+    "img": "img/food/hamburger-com-ovo.jpeg"
    },
    {
     "title": "HAMBURGUER VEGETARIANO",
     "description": "Hamburguer  vegetariano, queijo, alface, pão, batata frita, molhos",
     "price": 3.5,
-    "img": "img/food/hamburger.jpg"
+    "img": "img/food/hamburger-com-ovo.jpeg"
    },
    {
     "title": "PRESUNTO",
     "description": "Presunto, pão",
     "price": 3,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "QUEIJO",
     "description": "Queijo, pão",
     "price": 3,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "ROJÕES",
     "description": "Rojões de porco, pão",
     "price": 3,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "SALPICÃO",
     "description": "Salpicão, pão",
     "price": 3,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    }
   ],
   "soups":[
@@ -134,13 +134,13 @@
     "title": "CALDO DE NABOS",
     "description": "Nabos, feijão, batata, cebola, azeite, carne",
     "price": 2,
-    "img": "img/no-img.png"
+    "img": "img/food/caldo-nabos.jpeg"
    },
    {
     "title": "SOPA DA PEDRA",
     "description": "Vários legumes e variedade de carnes aos cubos.",
     "price": 2.5,
-    "img": "img/food/sopa-pedra.jpg"
+    "img": "img/food/sopa-pedra.jpeg"
    }
   ],
   "snacks":[
@@ -148,37 +148,37 @@
     "title": "GRELHADO MISTO -  Prato pequeno",
     "description": "Fêvera, entremeada, chouriço de carne e chouriço de sangue, azeitonas e picles",
     "price": 4,
-    "img": "img/food/grelhado.jpg"
+    "img": "img/food/prato-grelhado-misto.jpeg"
    },
    {
     "title": "GRELHADO MISTO -  Prato grande",
     "description": "Fêvera, entremeada, chouriço de carne e chouriço de sangue, azeitonas e picles",
     "price": 10,
-    "img": "img/food/grelhado.jpg"
+    "img": "img/food/prato-grelhado-misto.jpeg"
    },
    {
     "title": "PUNHETA DE BACALHAU -  Prato pequeno",
     "description": "Bacalhau, azeitonas, cebolas, azeite",
     "price": 4,
-    "img": "img/no-img.png"
+    "img": "img/food/punheta.jpeg"
    },
    {
     "title": "PUNHETA DE BACALHAU -  Prato grande",
     "description": "Bacalhau, azeitonas, cebolas, azeite",
     "price": 10,
-    "img": "img/no-img.png"
+    "img": "img/food/punheta.jpeg"
    },
    {
     "title": "ROJÕES - Prato pequeno",
     "description": "Rojões de porco",
     "price": 4,
-    "img": "img/food/prato-rojoes.jpg"
+    "img": "img/food/prato-rojoes-pequeno.jpeg"
    },
    {
     "title": "ROJÕES - Prato grande",
     "description": "Rojões de porco",
     "price": 9,
-    "img": "img/food/prato-rojoes.jpg"
+    "img": "img/food/prato-rojoes-grande.jpeg"
    }
   ],
   "drinks":[
@@ -186,157 +186,157 @@
     "title": "CERVEJA - copo",
     "description": null,
     "price": 1.5,
-    "img": "img/no-img.png"
+    "img": "img/food/cerveja.jpeg"
    },
    {
     "title": "7UP",
     "description": null,
     "price": 1.25,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "ÁGUA ",
     "description": null,
     "price": 0.75,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "COCA-COLA",
     "description": null,
     "price": 1.25,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "ICE-TEA",
     "description": null,
     "price": 1.25,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "SUMOL ANANÁS",
     "description": null,
     "price": 1.25,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "SUMOL LARANJA",
     "description": null,
     "price": 1.25,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "RECEITA - Infusa 0,5L",
     "description": "Cerveja, vinho verde, açucar amarelo",
     "price": 4,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "RECEITA - Infusa 1L",
     "description": "Cerveja, vinho verde, açucar amarelo",
     "price": 8,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "RECEITA - Infusa 2L",
     "description": "Cerveja, vinho verde, açucar amarelo",
     "price": 15,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "SANGRIA - Copo",
     "description": "Vinho tinto, vinho do porto, whisky, aguardente, sumos e fruto",
     "price": 2,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "SANGRIA - Infusa 0,5L",
     "description": "Vinho tinto, vinho do porto, whisky, aguardente, sumos e fruto",
     "price": 4,
-    "img": "img/no-img.png"
+    "img": "img/food/sangria.jpeg"
    },
    {
     "title": "SANGRIA - Infusa 1L",
     "description": "Vinho tinto, vinho do porto, whisky, aguardente, sumos e fruto",
     "price": 8,
-    "img": "img/no-img.png"
+    "img": "img/food/sangria.jpeg"
    },
    {
     "title": "SANGRIA - Infusa 2L",
     "description": "Vinho tinto, vinho do porto, whisky, aguardente, sumos e fruto",
     "price": 15,
-    "img": "img/no-img.png"
+    "img": "img/food/sangria.jpeg"
    },
    {
     "title": "VINHO MADURO BRANCO - Copo",
     "description": "Maduro do Alentejo",
     "price": 1.5,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "VINHO MADURO BRANCO - Infusa 0,5L",
     "description": "Maduro do Alentejo",
     "price": 3,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "VINHO MADURO BRANCO - Infusa 1L",
     "description": "Maduro do Alentejo",
     "price": 6,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "VINHO MADURO BRANCO - Infusa 2L",
     "description": "Maduro do Alentejo",
     "price": 12,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "VINHO MADURO TINTO - Copo",
     "description": "Maduro do Alentejo",
     "price": 1.5,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "VINHO MADURO TINTO - Infusa 0,5L",
     "description": "Maduro do Alentejo",
     "price": 3,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "VINHO MADURO TINTO - Infusa 1L",
     "description": "Maduro do Alentejo",
     "price": 6,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "VINHO MADURO TINTO - Infusa 2L",
     "description": "Maduro do Alentejo",
     "price": 12,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "VINHO VERDE BRANCO - Copo",
     "description": "Vinho verde da região",
     "price": 1.5,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "VINHO VERDE BRANCO - Infusa 0,5L",
     "description": "Vinho verde da região",
     "price": 3,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "VINHO VERDE BRANCO - Infusa 1L",
     "description": "Vinho verde da região",
     "price": 6,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "VINHO VERDE BRANCO - Infusa 2L",
     "description": "Vinho verde da região",
     "price": 12,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    }
   ],
   "desserts":[
@@ -344,61 +344,61 @@
     "title": "BABA DE CAMELO",
     "description": "Leite Condensado, ovos",
     "price": 2.5,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "BOLA DE BERLIM",
     "description": "Massa de bola de berlim, creme de berlim",
     "price": 1.5,
-    "img": "img/no-img.png"
+    "img": "img/food/bola-berlim.jpeg"
    },
    {
     "title": "MOUSSE LIMÃO",
     "description": "Natas, doce de limão, leite, açúcar",
     "price": 2.5,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "MOUSSE OREO",
     "description": "Natas, Bolacha Chocolate",
     "price": 2.5,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "NATAS DO CÉU",
     "description": "Natas, bolacha, creme de ovo",
     "price": 2.5,
-    "img": "img/no-img.png"
+    "img": "img/food/natas-ceu.jpeg"
    },
    {
     "title": "PÃO de LÓ (individual)",
     "description": "Farinha, ovos, açucar",
     "price": 3,
-    "img": "img/no-img.png"
+    "img": "img/food/pao-de-lo.jpeg"
    },
    {
     "title": "SOPA SECA",
     "description": "Pão velho, açucar, canela, limão",
     "price": 2,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "AGUARDENTE / LICORES",
     "description": "vários sabores",
     "price": 0.75,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "CAFÉ / DESCAFEINADO",
     "description": "café marca Tropical",
     "price": 0.75,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    },
    {
     "title": "CARIOCA",
     "description": "café marca Tropical",
     "price": 0.5,
-    "img": "img/no-img.png"
+    "img": "img/food/no-img.png"
    }
   ]
   }
