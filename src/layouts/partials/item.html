@@ -1,7 +1,8 @@
-
 <div class="custom-menus d-flex align-items-center">
     <div class="custom-menu-img rounded-circle">
-        <img class="img-fluid" src='{{ .img }}' alt="">
+        <a href="#" class="pop" data-toggle="modal" data-target="#imagemodal">
+            <img class="img-fluid" src='{{ .img }}'>
+        </a>
     </div>
     <div class="text-wrap">
         <div class="row align-items-start">
@@ -13,5 +14,10 @@
             </div>
         </div>
         <p>{{ .description }}</p>
+    </div>
+</div>
+<div class="modal fade" id="imagemodal">
+    <div class="modal-dialog modal-dialog-centered">
+        <img src="" class="imagepreview" style="width: 100%;">
     </div>
 </div>

@@ -7,7 +7,7 @@ nav,
 .menu-price,
 ul,
 .mastfoot,
-* {
+i {
   background-color: #e7e4da !important;
   color: #4e3903 !important;
 }
@@ -19,9 +19,6 @@ ul,
 /*============================
 =            MENU            =
 ============================*/
-.custom-menus:hover img {
-  /* transform: scale(1.1, 1.1); */
-}
 
 .custom-menu-img {
   overflow: hidden;
