@@ -1,0 +1,10 @@
+<mat-form-field class="number-form-field" appearance="fill">
+    <input matInput type="text" [(ngModel)]="number">
+    <mat-divider></mat-divider>
+</mat-form-field>
+
+<div class="button-row">
+  <button mat-fab color="warn" (click)="remove()"><mat-icon>remove</mat-icon></button>
+  <button mat-fab color="primary" (click)="add()"><mat-icon>add</mat-icon></button>
+  <button mat-fab color="basic" (click)="replace()"><mat-icon>check</mat-icon></button>
+</div>
