@@ -9,7 +9,7 @@
    {
     "title": "PRATINHO BATATAS FRITAS",
     "description": "Batatas Fritas",
-    "price": 1.5,
+    "price": 2,
     "img": "img/food/batata-frita.jpeg"
    },
    {
@@ -33,31 +33,31 @@
    {
     "title": "PRATINHO PRESUNTO",
     "description": "Presunto",
-    "price": 4,
+    "price": 4.5,
     "img": "img/food/presunto.jpeg"
    },
    {
     "title": "PRATINHO QUEIJO",
     "description": "Queijo",
-    "price": 4,
+    "price": 4.5,
     "img": "img/food/queijo.jpeg"
    },
    {
     "title": "PRATINHO SALPICÃO",
     "description": "Salpicão",
-    "price": 4,
+    "price": 4.5,
     "img": "img/food/salpicao.jpeg"
    },
    {
     "title": "TÁBUA GRANDE",
     "description": "Queijo, presunto, salpicão, batata frita, chouriço assado, pão, azeitonas",
-    "price": 15,
+    "price": 18,
     "img": "img/food/tabua-grande.jpeg"
    },
    {
     "title": "TÁBUA PEQUENA",
     "description": "Queijo, presunto, salpicão, batata frita, chouriço assado, pão, azeitonas",
-    "price": 9,
+    "price": 10,
     "img": "img/food/tabua-pequena.jpeg"
    }
   ],
@@ -101,19 +101,19 @@
    {
     "title": "HAMBURGUER VEGETARIANO",
     "description": "Hamburguer  vegetariano, queijo, alface, pão, batata frita, molhos",
-    "price": 3.5,
+    "price": 4,
     "img": "img/food/hamburger-com-ovo.jpeg"
    },
    {
     "title": "PRESUNTO",
     "description": "Presunto, pão",
-    "price": 3,
+    "price": 3.5,
     "img": "img/food/sande-presunto.jpeg"
    },
    {
     "title": "QUEIJO",
     "description": "Queijo, pão",
-    "price": 3,
+    "price": 3.5,
     "img": "img/food/sande-queijo.jpeg"
    },
    {
@@ -125,7 +125,7 @@
    {
     "title": "SALPICÃO",
     "description": "Salpicão, pão",
-    "price": 3,
+    "price": 3.5,
     "img": "img/food/sande-salpicao.jpeg"
    }
   ],
@@ -153,19 +153,19 @@
    {
     "title": "GRELHADO MISTO -  Prato grande",
     "description": "Fêvera, entremeada, chouriço de carne e chouriço de sangue, azeitonas e picles",
-    "price": 10,
+    "price": 11,
     "img": "img/food/prato-grelhado-misto.jpeg"
    },
    {
     "title": "PUNHETA DE BACALHAU -  Prato pequeno",
     "description": "Bacalhau, azeitonas, cebolas, azeite",
-    "price": 4,
+    "price": 5,
     "img": "img/food/prato-pequeno-punheta.jpeg"
    },
    {
     "title": "PUNHETA DE BACALHAU -  Prato grande",
     "description": "Bacalhau, azeitonas, cebolas, azeite",
-    "price": 10,
+    "price": 11,
     "img": "img/food/prato-grande-punheta.jpeg"
    },
    {
@@ -177,7 +177,7 @@
    {
     "title": "ROJÕES - Prato grande",
     "description": "Rojões de porco",
-    "price": 9,
+    "price": 10,
     "img": "img/food/prato-rojoes-grande.jpeg"
    }
   ],
