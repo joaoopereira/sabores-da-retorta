@@ -33,25 +33,25 @@
    {
     "title": "PRATINHO PRESUNTO",
     "description": "Presunto",
-    "price": 4.5,
+    "price": 5,
     "img": "img/food/presunto.jpeg"
    },
    {
     "title": "PRATINHO QUEIJO",
     "description": "Queijo",
-    "price": 4.5,
+    "price": 5,
     "img": "img/food/queijo.jpeg"
    },
    {
     "title": "PRATINHO SALPICÃO",
     "description": "Salpicão",
-    "price": 4.5,
+    "price": 5,
     "img": "img/food/salpicao.jpeg"
    },
    {
     "title": "TÁBUA GRANDE",
     "description": "Queijo, presunto, salpicão, batata frita, chouriço assado, pão, azeitonas",
-    "price": 18,
+    "price": 20,
     "img": "img/food/tabua-grande.jpeg"
    },
    {
@@ -71,7 +71,7 @@
    {
     "title": "CACHORRO",
     "description": "Salcicha, fiambre, queijo, batata palha, molhos, pão",
-    "price": 3,
+    "price": 3.5,
     "img": "img/food/cachorro.jpeg"
    },
    {
@@ -89,13 +89,13 @@
    {
     "title": "HAMBURGUER",
     "description": "Hamburguer de Bovino ou frango, queijo, alface, pão, batata frita, molhos",
-    "price": 3.5,
+    "price": 4,
     "img": "img/food/hamburger-com-ovo.jpeg"
    },
    {
     "title": "HAMBURGUER C/OVO",
     "description": "Hamburguer de Bovino ou frango, ovo, queijo, alface, pão, batata frita, molhos",
-    "price": 4,
+    "price": 4.5,
     "img": "img/food/hamburger-com-ovo.jpeg"
    },
    {
@@ -119,7 +119,7 @@
    {
     "title": "ROJÕES",
     "description": "Rojões de porco, pão",
-    "price": 3,
+    "price": 3.5,
     "img": "img/food/no-img.jpeg"
    },
    {
@@ -147,7 +147,7 @@
    {
     "title": "GRELHADO MISTO -  Prato pequeno",
     "description": "Fêvera, entremeada, chouriço de carne e chouriço de sangue, azeitonas e picles",
-    "price": 4,
+    "price": 5.5,
     "img": "img/food/prato-grelhado-misto.jpeg"
    },
    {
@@ -159,7 +159,7 @@
    {
     "title": "PUNHETA DE BACALHAU -  Prato pequeno",
     "description": "Bacalhau, azeitonas, cebolas, azeite",
-    "price": 5,
+    "price": 5.5,
     "img": "img/food/prato-pequeno-punheta.jpeg"
    },
    {
@@ -171,7 +171,7 @@
    {
     "title": "ROJÕES - Prato pequeno",
     "description": "Rojões de porco",
-    "price": 4,
+    "price": 5,
     "img": "img/food/prato-rojoes-pequeno.jpeg"
    },
    {
@@ -185,43 +185,43 @@
    {
     "title": "CERVEJA - copo",
     "description": null,
-    "price": 1.5,
+    "price": 1.7,
     "img": "img/food/cerveja.jpeg"
    },
    {
     "title": "7UP",
     "description": null,
-    "price": 1.25,
+    "price": 1.5,
     "img": "img/food/no-img.jpeg"
    },
    {
     "title": "ÁGUA ",
     "description": null,
-    "price": 0.75,
+    "price": 1,
     "img": "img/food/no-img.jpeg"
    },
    {
     "title": "COCA-COLA",
     "description": null,
-    "price": 1.25,
+    "price": 1.5,
     "img": "img/food/coca-cola.jpeg"
    },
    {
     "title": "ICE-TEA",
     "description": null,
-    "price": 1.25,
+    "price": 1.5,
     "img": "img/food/ice-tea.jpeg"
    },
    {
     "title": "SUMOL ANANÁS",
     "description": null,
-    "price": 1.25,
+    "price": 1.5,
     "img": "img/food/no-img.jpeg"
    },
    {
     "title": "SUMOL LARANJA",
     "description": null,
-    "price": 1.25,
+    "price": 1.5,
     "img": "img/food/no-img.jpeg"
    },
    {
@@ -239,7 +239,7 @@
    {
     "title": "RECEITA - Infusa 2L",
     "description": "Cerveja, vinho verde, açucar amarelo",
-    "price": 15,
+    "price": 16,
     "img": "img/food/no-img.jpeg"
    },
    {
@@ -263,79 +263,79 @@
    {
     "title": "SANGRIA - Infusa 2L",
     "description": "Vinho tinto, vinho do porto, whisky, aguardente, sumos e fruto",
-    "price": 15,
+    "price": 16,
     "img": "img/food/sangria.jpeg"
    },
    {
     "title": "VINHO MADURO BRANCO - Copo",
     "description": "Maduro do Alentejo",
-    "price": 1.5,
+    "price": 1.7,
     "img": "img/food/no-img.jpeg"
    },
    {
     "title": "VINHO MADURO BRANCO - Infusa 0,5L",
     "description": "Maduro do Alentejo",
-    "price": 3,
+    "price": 3.5,
     "img": "img/food/no-img.jpeg"
    },
    {
     "title": "VINHO MADURO BRANCO - Infusa 1L",
     "description": "Maduro do Alentejo",
-    "price": 6,
+    "price": 7,
     "img": "img/food/no-img.jpeg"
    },
    {
     "title": "VINHO MADURO BRANCO - Infusa 2L",
     "description": "Maduro do Alentejo",
-    "price": 12,
+    "price": 14,
     "img": "img/food/no-img.jpeg"
    },
    {
     "title": "VINHO MADURO TINTO - Copo",
     "description": "Maduro do Alentejo",
-    "price": 1.5,
+    "price": 1.7,
     "img": "img/food/no-img.jpeg"
    },
    {
     "title": "VINHO MADURO TINTO - Infusa 0,5L",
     "description": "Maduro do Alentejo",
-    "price": 3,
+    "price": 3.5,
     "img": "img/food/no-img.jpeg"
    },
    {
     "title": "VINHO MADURO TINTO - Infusa 1L",
     "description": "Maduro do Alentejo",
-    "price": 6,
+    "price": 7,
     "img": "img/food/no-img.jpeg"
    },
    {
     "title": "VINHO MADURO TINTO - Infusa 2L",
     "description": "Maduro do Alentejo",
-    "price": 12,
+    "price": 14,
     "img": "img/food/no-img.jpeg"
    },
    {
     "title": "VINHO VERDE BRANCO - Copo",
     "description": "Vinho verde da região",
-    "price": 1.5,
+    "price": 1.7,
     "img": "img/food/no-img.jpeg"
    },
    {
     "title": "VINHO VERDE BRANCO - Infusa 0,5L",
     "description": "Vinho verde da região",
-    "price": 3,
+    "price": 3.5,
     "img": "img/food/no-img.jpeg"
    },
    {
     "title": "VINHO VERDE BRANCO - Infusa 1L",
     "description": "Vinho verde da região",
-    "price": 6,
+    "price": 7,
     "img": "img/food/no-img.jpeg"
    },
    {
     "title": "VINHO VERDE BRANCO - Infusa 2L",
     "description": "Vinho verde da região",
-    "price": 12,
+    "price": 14,
     "img": "img/food/no-img.jpeg"
    }
   ],
@@ -343,7 +343,7 @@
    {
     "title": "BABA DE CAMELO",
     "description": "Leite Condensado, ovos",
-    "price": 2.5,
+    "price": 3,
     "img": "img/food/no-img.jpeg"
    },
    {
@@ -355,19 +355,19 @@
    {
     "title": "MOUSSE LIMÃO",
     "description": "Natas, doce de limão, leite, açúcar",
-    "price": 2.5,
+    "price": 3,
     "img": "img/food/mousse-limao.jpeg"
    },
    {
     "title": "MOUSSE OREO",
     "description": "Natas, Bolacha Chocolate",
-    "price": 2.5,
+    "price": 3,
     "img": "img/food/mousse-oreo.jpeg"
    },
    {
     "title": "NATAS DO CÉU",
     "description": "Natas, bolacha, creme de ovo",
-    "price": 2.5,
+    "price": 3,
     "img": "img/food/natas-ceu.jpeg"
    },
    {
@@ -379,25 +379,25 @@
    {
     "title": "SOPA SECA",
     "description": "Pão velho, açucar, canela, limão",
-    "price": 2,
+    "price": 2.5,
     "img": "img/food/sopa-seca.jpeg"
    },
    {
     "title": "AGUARDENTE / LICORES",
     "description": "vários sabores",
-    "price": 0.75,
+    "price": 0.8,
     "img": "img/food/licores.jpeg"
    },
    {
     "title": "CAFÉ / DESCAFEINADO",
     "description": "café marca Tropical",
-    "price": 0.75,
+    "price": 0.8,
     "img": "img/food/cafe.jpeg"
    },
    {
     "title": "CARIOCA",
     "description": "café marca Tropical",
-    "price": 0.5,
+    "price": 0.6,
     "img": "img/food/cafe.jpeg"
    }
   ]
