@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/joaoopereira/resto-hugo.git
+	branch = master
+	commit = 8d2d566dfec78ecc8dac375b515d3f4adc01502d
+	parent = 33352e43f8c3b1d024a62d0e22fa858c4e64aa25
+	method = merge
+	cmdver = 0.4.5
