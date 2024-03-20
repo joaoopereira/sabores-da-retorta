@@ -9,7 +9,6 @@ logoNav = "img/logo-sabores.svg"
 logoFooter = "img/logo-sabores.svg"
 enableDisqus = false # enable / disable comments for blog posts
 enableGA = true # enable / disable google analytics
-footerText = "Próximas tasquinhas:<ul><li>Semana das Associações Campo</li><li>Couce em festa</li></ul>"
 facebook = "https://facebook.com/GDRRetorta"
 website = "https://retorta.com"
 email = "geral@retorta.com"
